@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/Adam/Level_01_Tuto.umap",
-				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3H/J0YL7XBBJYRPY0XFQ80DC8.uasset",
-				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SE/4NBM45BP6EWJQXIP8I536P.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Mesh/BODY_diffuse.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Mesh/Body_MAT.uasset",
@@ -106,6 +103,13 @@
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/StandingDodgeLeft_UE_Montage.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/StandingDodgeRight_UE_Montage.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/RunningSlide_1__UE.uasset",
+				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/Adam/Level_01_Tuto.umap",
+				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3H/J0YL7XBBJYRPY0XFQ80DC8.uasset",
+				"C:/GitHub/GlobalGameJam2024/AQUADOM/Aquadom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SE/4NBM45BP6EWJQXIP8I536P.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/JogBackward_UE.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/JogBackwardLeft_UE.uasset",
@@ -133,7 +137,6 @@
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/Run.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/Walk_F.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Animations/Jog_F.uasset",
-				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/Owful/OneDrive/Documents/Unreal Projects/Aquadom/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
 			]
 		}
