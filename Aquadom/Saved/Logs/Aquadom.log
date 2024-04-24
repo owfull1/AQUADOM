@@ -3744,3 +3744,283 @@ Script Stack (0 frames) :
 [2024.04.24-13.37.36:245][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 5.61 sec)
 [2024.04.24-13.37.36:248][729]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.24-13.37.36:248][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.24-13.38.04:178][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.38.04:356][ 70]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.24-13.38.04:357][ 70]LogSavePackage: Moving '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/BP_ThirdPersonCharacterCE3EEFF44908FF592CD94FA4FCC28AED.tmp' to '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.24-13.38.04:367][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 5.80 sec)
+[2024.04.24-13.38.04:371][ 70]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.24-13.38.04:371][ 70]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.24-13.38.14:373][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:373][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:373][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:373][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:373][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:377][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:377][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:377][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:377][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:377][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:381][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:381][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:381][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:381][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:381][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:384][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:384][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:384][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:384][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:384][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:386][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:386][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:386][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:387][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:387][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:388][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:388][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:388][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:389][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.14:389][652]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:371][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:372][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:372][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:372][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:372][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:375][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:376][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:376][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:376][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:376][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:378][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:378][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:378][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:379][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:379][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:382][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:382][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:382][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:382][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:382][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:384][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:384][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:384][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:384][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:384][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:386][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:386][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:386][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:387][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.23:387][168]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:371][147]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:457][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:458][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:458][147]LogBlueprint: Warning: [AssetLog] C:\Users\Owful\OneDrive\Bureau\Sauvegarde pc\ECOLE\Projet\Blade j'ai la flemme runner\AQUADOM\Aquadom\Content\ThirdPerson\Animations\AnimationBP.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.24-13.38.57:471][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:471][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:471][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:471][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:471][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:472][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:472][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:472][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:472][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:472][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:473][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:473][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:473][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:473][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:473][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:474][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:474][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:474][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:474][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:474][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:475][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:475][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:475][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:475][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:475][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:476][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:476][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:476][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:476][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:476][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:492][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:493][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:519][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.24-13.38.57:528][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:528][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:528][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:528][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:528][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:531][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:531][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:531][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:531][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:531][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:533][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:533][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:533][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:533][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:533][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:536][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:536][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:536][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:536][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:536][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:537][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:537][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:537][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:537][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:537][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:539][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:539][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:539][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:539][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:539][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:540][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:540][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:540][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:540][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:540][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:555][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:555][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:555][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:555][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:555][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:558][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:558][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:558][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:558][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:558][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:559][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:559][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:559][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:559][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:559][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:561][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:561][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:561][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:561][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:561][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:562][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:562][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:563][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:563][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:563][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:565][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:565][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:565][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:565][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:565][147]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.57:968][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.38.58:244][168]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.24-13.38.58:245][168]LogSavePackage: Moving '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/BP_ThirdPersonCharacterCF61D2C54D7C95579411D29967EB1A26.tmp' to '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.24-13.38.58:256][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 6.09 sec)
+[2024.04.24-13.38.58:259][168]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.24-13.38.58:259][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.24-13.38.58:322][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.38.58:531][172]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.24-13.38.58:533][172]LogSavePackage: Moving '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/BP_ThirdPersonCharacterCBA2F99742C9F1845ADBBA84B3C5B43D.tmp' to '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.24-13.38.58:545][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 6.31 sec)
+[2024.04.24-13.38.58:549][172]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.24-13.38.58:549][172]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.24-13.38.59:498][224]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.24-13.38.59:504][224]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.24-13.38.59:504][224]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.24-13.38.59:505][224]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 9 ms)
+[2024.04.24-13.38.59:505][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.24-13.38.59:505][224]PIE: New page: PIE session: ThirdPersonMap (24 avr. 2024 à 17:38:59)
+[2024.04.24-13.38.59:505][224]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.24-13.38.59:511][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005168s)
+[2024.04.24-13.38.59:511][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005198s)
+[2024.04.24-13.38.59:525][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.24-13.38.59:531][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-13.38.59:531][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-13.38.59:531][224]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.24-13.38.59:532][224]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.24-13.38.59:532][224]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.24-13.38.59:532][224]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.24-13.38.59:532][224]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.24-13.38.59:533][224]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.24-13.38.59:533][224]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 273 ms)
+[2024.04.24-13.38.59:533][224]LogPlayLevel: PIE: World Init took: (0.002735s)
+[2024.04.24-13.38.59:533][224]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.24-13.38.59:533][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.24-13.38.59:533][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.24-13.38.59:534][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.24-13.38.59:534][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.24-13.38.59:534][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.24-13.38.59:536][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.24-13.38.59:561][224]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (USB Audio Device)
+[2024.04.24-13.38.59:562][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.24-13.38.59:562][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.24-13.38.59:562][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.24-13.38.59:563][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.24-13.38.59:563][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.24-13.38.59:564][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.24-13.38.59:564][224]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.24-13.38.59:564][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.24-13.38.59:564][224]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.04.24-13.38.59:564][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.24-13.38.59:566][224]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.24-13.38.59:569][224]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.24-15.38.59
+[2024.04.24-13.38.59:569][224]LogWorld: Bringing up level for play took: 0.002334
+[2024.04.24-13.38.59:572][224]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.24-13.38.59:574][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.59:574][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.59:574][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.59:574][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.59:574][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AnimationBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.24-13.38.59:577][224]PIE: Server logged in
+[2024.04.24-13.38.59:578][224]PIE: Play in editor total start time 0,073 seconds.
+[2024.04.24-13.39.36:681][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-13.39.36:681][439]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.24-13.39.36:682][439]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-13.39.36:682][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-13.39.36:682][439]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.24-13.39.36:685][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.24-13.39.36:689][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-13.39.36:706][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.24-13.39.36:706][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.24-13.39.36:706][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.24-13.39.36:708][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.24-13.39.36:712][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.24-13.39.36:716][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.24-13.39.36:782][441]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.24-13.39.38:751][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.39.38:949][559]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.24-13.39.38:950][559]LogSavePackage: Moving '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/BP_ThirdPersonCharacter43D6FBF243E0B60315089FAB9586558D.tmp' to '../../../../../../Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.24-13.39.38:963][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 6.52 sec)
+[2024.04.24-13.39.38:965][559]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.24-13.39.38:965][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
