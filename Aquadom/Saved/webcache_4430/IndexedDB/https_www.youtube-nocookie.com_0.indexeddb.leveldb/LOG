@@ -1,0 +1,6 @@
+2024/04/25-17:04:45.488 8e8 Creating DB C:/Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/25-17:04:45.501 8e8 Reusing MANIFEST C:/Users/Owful/OneDrive/Bureau/Sauvegarde pc/ECOLE/Projet/Blade j'ai la flemme runner/AQUADOM/Aquadom/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/25-17:07:02.670 8e8 Level-0 table #5: started
+2024/04/25-17:07:02.674 8e8 Level-0 table #5: 1167 bytes OK
+2024/04/25-17:07:02.679 8e8 Delete type=0 #3
+2024/04/25-17:07:02.680 8e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
